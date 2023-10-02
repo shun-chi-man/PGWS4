@@ -10,7 +10,7 @@
 
 # 結果
 
-・［第2回の結果］
+・第2回の結果
 ![第2回の結果-1](https://github.com/shun-chi-man/PGWS4/assets/146050674/89392057-0ead-4ad0-8b50-dada79066be0)
 ![第2回の結果-2](https://github.com/shun-chi-man/PGWS4/assets/146050674/a95612fd-29fb-4150-bb4a-2135e0072e24)
 
