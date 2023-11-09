@@ -27,7 +27,7 @@
 ![第7回の結果](???.png)
 
 ・第8回の結果
-![第8回の結果](![第八回授業課題結果](https://github.com/shun-chi-man/PGWS4/assets/146050674/19740eb2-2a66-4336-80c9-49fcd142a2d8)
+![第八回授業課題結果](https://github.com/shun-chi-man/PGWS4/assets/146050674/19740eb2-2a66-4336-80c9-49fcd142a2d8)
 
 ![第9回の結果](???.png)
 
