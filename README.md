@@ -51,6 +51,8 @@
 
 ・RGBそれぞれの最初のsinθをずらすことで、カラフルな色の変化にしました。
 
+・第9回の結果
+
 ![第九回授業課題結果](https://github.com/shun-chi-man/PGWS4/assets/146050674/dde40ed0-45a0-4ced-bdd6-7874d5f66c50)
 
 ![第10回の結果](???.png)
